@@ -1,0 +1,54 @@
+.img-homepage{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-color:chartreuse;
+    background-image: url(../resources/imgs/bg_homepage.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+
+
+}
+
+.title-homepage{
+    margin-top:30%;
+}
+
+/* button:hover{
+    height:50%;
+    width:50%;
+} */
+.active{
+    color: goldenrod;
+}
+.card-info{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    /* border: 1px solid rgba(0,0,0,.125); */
+    border-radius: 0.25rem;
+}
+.icons{
+
+    font-size: 3rem;
+}
+
+a:hover{
+    color:#ffc107 !important;
+}
+
+.white{
+    color: #F8F8F8, !important;
+}
+.bg-white{
+    background-color: #F8F8F8, !important;
+}
+.yellow{
+    color: #ECE107 !important;
+}
